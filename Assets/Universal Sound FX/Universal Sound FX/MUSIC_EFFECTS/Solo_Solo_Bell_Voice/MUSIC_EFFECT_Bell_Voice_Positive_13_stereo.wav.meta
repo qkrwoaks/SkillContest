@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: ea22f5c903c95154db98f76a34f7ce24
+labels:
+- usfx
+- imphenzia
+- music effect
+- fanfare
+- gingle
+- success
+- fail
+- tune
+- melody
+- stereo
+- bell
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
